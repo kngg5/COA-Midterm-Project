@@ -1,0 +1,11 @@
+K:\repos\COA mid project\COA mid project\bin\Debug\COA mid project.exe.config
+K:\repos\COA mid project\COA mid project\bin\Debug\COA mid project.exe
+K:\repos\COA mid project\COA mid project\bin\Debug\COA mid project.pdb
+K:\repos\COA mid project\COA mid project\obj\Debug\COA mid project.csproj.AssemblyReference.cache
+K:\repos\COA mid project\COA mid project\obj\Debug\COA mid project.csproj.SuggestedBindingRedirects.cache
+K:\repos\COA mid project\COA mid project\obj\Debug\COA_mid_project.Form1.resources
+K:\repos\COA mid project\COA mid project\obj\Debug\COA_mid_project.Properties.Resources.resources
+K:\repos\COA mid project\COA mid project\obj\Debug\COA mid project.csproj.GenerateResource.cache
+K:\repos\COA mid project\COA mid project\obj\Debug\COA mid project.csproj.CoreCompileInputs.cache
+K:\repos\COA mid project\COA mid project\obj\Debug\COA mid project.exe
+K:\repos\COA mid project\COA mid project\obj\Debug\COA mid project.pdb
