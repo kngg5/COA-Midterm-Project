@@ -8,3 +8,5 @@ It's pretty simple in usage, so you can open it and easily use for your purpose.
 
 ## Here is description
 ![This is an image](images/appLook.png)
+The image below is how the app looks.
+------------------------------------------------------------------------------------
